@@ -1,0 +1,12 @@
+How to convert any data type in javascript into string
+https://stackoverflow.com/questions/869773/how-to-convert-instance-of-any-type-to-string
+
+How to write a test which expects an Error to be thrown in Jasmine?
+This also can be used in mocha library
+https://stackoverflow.com/questions/4144686/how-to-write-a-test-which-expects-an-error-to-be-thrown-in-jasmine
+
+Array methods
+https://www.w3schools.com/js/js_array_methods.asp
+
+Basis for lib/script.js (This is my own repo)
+https://github.com/clediscover/Binary-Conversion/blob/master/script.py
