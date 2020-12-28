@@ -8,5 +8,11 @@ https://stackoverflow.com/questions/4144686/how-to-write-a-test-which-expects-an
 Array methods
 https://www.w3schools.com/js/js_array_methods.asp
 
+Javascript Bitwise
+https://www.w3schools.com/js/js_bitwise.asp
+
+What is JavaScript's highest integer value that a number can go to without losing precision?
+https://stackoverflow.com/questions/307179/what-is-javascripts-highest-integer-value-that-a-number-can-go-to-without-losin
+
 Basis for lib/script.js (This is my own repo)
 https://github.com/clediscover/Binary-Conversion/blob/master/script.py
