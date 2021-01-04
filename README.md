@@ -1,5 +1,10 @@
 # Binary Conversion - JS
 
+[![My website](https://img.shields.io/badge/CLeDiscover-Clever%2C%20let's%20discover!-brightgreen?style=for-the-badge&logo=appveyor&logo=superuser)](https://clediscover.xyz)
+
+[![GitHub stars](https://img.shields.io/github/stars/clediscover/Binary-Conversion-JS)](https://github.com/clediscover/Binary-Conversion-JS/stargazers)
+[![GitHub license](https://img.shields.io/github/license/clediscover/Binary-Conversion-JS)](https://github.com/clediscover/Binary-Conversion-JS/blob/master/LICENSE.md)
+
 ### Table of contents
   - [Description](https://github.com/clediscover/Binary-Conversion-JS#description)
   - [Easy way for binary conversion](https://github.com/clediscover/Binary-Conversion-JS#here-is-an-easy-way-to-convert-binary-to-decimal-and-decimal-to-binary)
